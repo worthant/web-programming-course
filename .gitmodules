@@ -1,0 +1,3 @@
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/worthant/simple-one-page-website
