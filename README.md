@@ -1,4 +1,26 @@
-# 🌐 Web-Programming Course
+<p align="center">
+  <a href="https://ibb.co/FszDc14">
+    <picture>
+      <img src="https://i.ibb.co/FszDc14/global-network.png" height="80">
+    </picture>
+    <h1 align="center">Web programming course</h1>
+  </a>
+</p>
+
+<p align="center">
+  <a aria-label="Last commit" href="https://github.com/worthant/web-programming-course/commits/main">
+    <img alt="" src="https://img.shields.io/github/last-commit/worthant/web-programming-course?style=for-the-badge&logo=git">
+  </a>
+  <a aria-label="Repo size" href="https://github.com/worthant/web-programming-course">
+    <img alt="" src="https://img.shields.io/github/repo-size/worthant/web-programming-course?style=for-the-badge&logo=github">
+  </a>
+  <a aria-label="License" href="./LICENSE">
+    <img alt="" src="https://img.shields.io/github/license/worthant/web-programming-course?style=for-the-badge">
+  </a>
+  <a aria-label="Translation" href="./README_RU.md">
+    <img alt="" src="https://img.shields.io/badge/translation-RU-red?style=for-the-badge">
+  </a>
+</p>
 
 > `Welcome` to the Web-Programming Course repository! This repo contains a `series of lab work projects` that span across various concepts in `Web Programming`.  
 
