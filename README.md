@@ -8,7 +8,7 @@
 
 | Laboratory Work              | Grade | Difficulty | Time Spent | Key Concepts | Materials |
 | ---------------------------- | ----- | ---------- | ---------- | ------------ | --------- |
-| [Laboratory Work №1](./lab1) |       |            |            |              |           |
+| [Laboratory Work №1](https://github.com/worthant/simple-one-page-website) |       |            |            |              |           |
 | [Laboratory Work №2](./lab2) |       |            |            |              |           |
 | [Laboratory Work №3](./lab3) |       |            |            |              |           |
 | [Laboratory Work №4](./lab4) |       |            |            |              |           |
