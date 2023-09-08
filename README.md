@@ -62,6 +62,8 @@ type[!] message
 
 ```bash
 :rocket: Start labX
+```
+```bash
 :rocket: Add labX submodule
 ```
 
@@ -71,6 +73,8 @@ type[!] message
 
 ```bash
 :sparkles: Add new feature
+```
+```bash
 :sparkles: Introduce new functionality
 ```
 
@@ -78,15 +82,19 @@ type[!] message
 
 > improve or fix something
 
-```
+```bash
 :bug: Fix MUI Drawer bug
+```
+```bash
 :wrench: Resolve table of contents issue
 ```
 
 4. 📚 Adding or Updating Documentation:
 
-```
+```bash
 :books: Add table of contents to README
+```
+```bash
 :books: Add documentation for backend logic
 ```
 
@@ -96,33 +104,41 @@ type[!] message
 
 ```bash
 :test_tube: Add CI
+```
+```bash
 :test_tube: Update deploy.sh
 ```
 
 6. :recycle::yarn::hammer: Refactoring and improving repo
 
-```
+```bash
 :recycle: Refactor code
+```
+```bash
 :yarn: Improve classes structure
+```
+```bash
 :hammer: Move dir1, delete kek1337 directory
 ```
 
 7. :heavy_check_mark::white_check_mark: Tests:
 
-```
+```bash
 :white_check_mark: Add unit tests
+```
+```bash
 :heavy_check_mark: Add e2e tests
 ```
 
 8. 🙈 Updating Gitignore:
 
-```
+```bash
 :see_no_evil: Update .gitignore for LabX
 ```
   
 9. 🗑️ Removing Code or Files:
 
-```
+```bash
 :wastebasket: Remove unused code
 ```
 
