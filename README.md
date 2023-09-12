@@ -29,8 +29,8 @@
 👇 An overview of the labs included in this course:
 
 | Laboratory Work              | Grade | Difficulty | Time Spent | Key Concepts | Materials |
-| ---------------------------- | ----- | ---------- | ---------- | ------------ | --------- |
-| [Laboratory Work №1](https://github.com/worthant/simple-one-page-website) |       |            |            |              |           |
+| :----------------------------: | :-----: | :----------: | :----------: | :------------: | :---------: |
+| [Laboratory Work №1](https://github.com/worthant/simple-one-page-website) |    92%   | `3/10` |  `6/10`   |  `HTML, CSS (+ flexbox, grid), Js, PHP`  | [theory](https://github.com/worthant/simple-one-page-website/blob/main/theory.md) ; [preview](https://se.ifmo.ru/~s368090/lab1/index.html)|
 | [Laboratory Work №2](./lab2) |       |            |            |              |           |
 | [Laboratory Work №3](./lab3) |       |            |            |              |           |
 | [Laboratory Work №4](./lab4) |       |            |            |              |           |
@@ -63,6 +63,7 @@ type[!] message
 ```bash
 :rocket: Start labX
 ```
+
 ```bash
 :rocket: Add labX submodule
 ```
@@ -74,6 +75,7 @@ type[!] message
 ```bash
 :sparkles: Add new feature
 ```
+
 ```bash
 :sparkles: Introduce new functionality
 ```
@@ -85,6 +87,7 @@ type[!] message
 ```bash
 :bug: Fix MUI Drawer bug
 ```
+
 ```bash
 :wrench: Resolve table of contents issue
 ```
@@ -94,6 +97,7 @@ type[!] message
 ```bash
 :books: Add table of contents to README
 ```
+
 ```bash
 :books: Add documentation for backend logic
 ```
@@ -105,6 +109,7 @@ type[!] message
 ```bash
 :test_tube: Add CI
 ```
+
 ```bash
 :test_tube: Update deploy.sh
 ```
@@ -114,9 +119,11 @@ type[!] message
 ```bash
 :recycle: Refactor code
 ```
+
 ```bash
 :yarn: Improve classes structure
 ```
+
 ```bash
 :hammer: Move dir1, delete kek1337 directory
 ```
@@ -126,6 +133,7 @@ type[!] message
 ```bash
 :white_check_mark: Add unit tests
 ```
+
 ```bash
 :heavy_check_mark: Add e2e tests
 ```
