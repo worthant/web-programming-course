@@ -130,6 +130,12 @@
     }
     ```
 
+    ```js
+    function changeURL() {
+        window.location.replace("https://se.ifmo.ru")
+    }
+    ```
+
 ## Just some additional questions for prep
 
 1. RESTful request using AJAX
