@@ -1,3 +1,6 @@
 [submodule "lab1"]
 	path = lab1
 	url = https://github.com/worthant/simple-one-page-website
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/worthant/MVC-GeoValidator

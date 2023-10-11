@@ -22,25 +22,29 @@
   </a>
 </p>
 
-> `Welcome` to the Web-Programming Course repository! This repo contains a `series of lab work projects` that span across various concepts in `Web Programming`.  
+> `Welcome` to the Web-Programming Course repository! This repo contains a `series of lab work projects` that span
+> across various concepts in `Web Programming`.
 
-> `Each` lab work resides in its `own directory` with dedicated `README files` containing the respective instructions and requirements.
+> `Each` lab work resides in its `own directory` with dedicated `README files` containing the respective instructions
+> and requirements.
 
 👇 An overview of the labs included in this course:
 
-| Laboratory Work              | Grade | Difficulty | Time Spent | Key Concepts | Materials |
-| :----------------------------: | :-----: | :----------: | :----------: | :------------: | :---------: |
-| [Laboratory Work №1](https://github.com/worthant/simple-one-page-website) |    92%   | `3/10` |  `6/10`   |  `HTML, CSS (+ flexbox, grid), Js, PHP`  | [theory](https://github.com/worthant/simple-one-page-website/blob/main/theory.md) ; [preview](https://se.ifmo.ru/~s368090/lab1/index.html)|
-| [Laboratory Work №2](./lab2) |       |            |            |              |           |
-| [Laboratory Work №3](./lab3) |       |            |            |              |           |
-| [Laboratory Work №4](./lab4) |       |            |            |              |           |
+|                              Laboratory Work                              | Grade | Difficulty | Time Spent |              Key Concepts              |                                                                      Materials                                                                      |
+|:-------------------------------------------------------------------------:|:-----:|:----------:|:----------:|:--------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Laboratory Work №1](https://github.com/worthant/simple-one-page-website) |  92%  |   `3/10`   |   `6/10`   | `HTML, CSS (+ flexbox, grid), Js, PHP` |     [theory](https://github.com/worthant/simple-one-page-website/blob/main/theory.md) ; [preview](https://se.ifmo.ru/~s368090/lab1/index.html)      |
+|    [Laboratory Work №2](https://github.com/worthant/MVC-GeoValidator)     | 100%  |   `5/10`   |   `5/10`   |   `Wildfly, Servlets, JSP, Js, MVC`    | [theory](https://github.com/worthant/MVC-GeoValidator/blob/main/theory.md) ; [preview](https://github.com/worthant/MVC-GeoValidator#demonstration-) |
+|                       [Laboratory Work №3](./lab3)                        |       |            |            |                                        |                                                                                                                                                     |
+|                       [Laboratory Work №4](./lab4)                        |       |            |            |                                        |                                                                                                                                                     |
 
-_I'll be updating the Grade, Difficulty, Time Spent, Key Concepts, and Materials for each lab work as I progress through the course._
+_I'll be updating the Grade, Difficulty, Time Spent, Key Concepts, and Materials for each lab work as I progress through
+the course._
 
 ## 📝 Commit Message Convention
 
 > Consistency is key, especially when it comes to git commits.  
-> For ease of readability and understanding, this repository follows a somewhat beautiful :sparkles: and outstanding :rocket: notation for commits!
+> For ease of readability and understanding, this repository follows a somewhat beautiful :sparkles: and outstanding :
+> rocket: notation for commits!
 
 Commit message should be in the following format:
 
@@ -50,13 +54,15 @@ type[!] message
 
 > That is `type` optionally followed by exclamation mark, strictly followed by _**one**_ space, followed by a message.
 
-> Total message length may exceed `80 characters` (type is counted as one character), but it is recommended to make messages expressive and small.
+> Total message length may exceed `80 characters` (type is counted as one character), but it is recommended to make
+> messages expressive and small.
 
-> Exclamation mark denotes `breaking change`. It is correlates with [`MAJOR`](https://semver.org/#summary) in Semantic Versioning.
+> Exclamation mark denotes `breaking change`. It is correlates with [`MAJOR`](https://semver.org/#summary) in Semantic
+> Versioning.
 
 ### Type should be one of the following
 
-1. 🚀 Starting new great things  
+1. 🚀 Starting new great things
 
 > things, like `new repository`, `subproject`, adding `submodule` to huge things, e.t.c
 
@@ -68,7 +74,7 @@ type[!] message
 :rocket: Add labX submodule
 ```
 
-2. :sparkles: Indicates new feature  
+2. :sparkles: Indicates new feature
 
 > analogue to `feat` tag in conventional commits
 
@@ -143,13 +149,14 @@ type[!] message
 ```bash
 :see_no_evil: Update .gitignore for LabX
 ```
-  
+
 9. 🗑️ Removing Code or Files:
 
 ```bash
 :wastebasket: Remove unused code
 ```
 
-> By following these conventions, I maintain a `clean` and `structured` git history which facilitates easier `readability` and project `maintenance`.
+> By following these conventions, I maintain a `clean` and `structured` git history which facilitates
+> easier `readability` and project `maintenance`.
 
 <p align="center">Happy coding! 🎉</p>
