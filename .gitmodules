@@ -4,3 +4,6 @@
 [submodule "lab2"]
 	path = lab2
 	url = https://github.com/worthant/MVC-GeoValidator
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/worthant/interactive-graph-ui/
