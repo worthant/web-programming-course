@@ -7,3 +7,9 @@
 [submodule "lab3"]
 	path = lab3
 	url = https://github.com/worthant/interactive-graph-ui/
+[submodule "lab4-frontend"]
+	path = lab4-frontend
+	url = https://github.com/worthant/graphify-angular-frontend
+[submodule "lab4-backend"]
+	path = lab4-backend
+	url = https://github.com/worthant/graphify-javaee-backend
