@@ -13,3 +13,6 @@
 [submodule "lab4-backend"]
 	path = lab4-backend
 	url = https://github.com/worthant/graphify-javaee-backend
+[submodule "lab3-stable-template"]
+	path = lab3-stable-template
+	url = git@github.com:worthant/web3-jsf-eclipselink-template.git
