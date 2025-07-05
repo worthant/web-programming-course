@@ -43,8 +43,8 @@ the course._
 ## 📝 Commit Message Convention
 
 > Consistency is key, especially when it comes to git commits.  
-> For ease of readability and understanding, this repository follows a somewhat beautiful :sparkles: and outstanding :
-> rocket: notation for commits!
+> For ease of readability and understanding, this repository follows a somewhat beautiful :sparkles: and outstanding
+> :rocket: notation for commits!
 
 Commit message should be in the following format:
 
